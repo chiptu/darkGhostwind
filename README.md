@@ -1,6 +1,6 @@
 # darkGhostwind 
 
-This repo is a darktheme version of [ghostwindcss](https://github.com/tailwindtoolbox/Ghostwind) with some details chaning
+This repo is a darktheme version of [ghostwindcss](https://github.com/tailwindtoolbox/Ghostwind) with some details changing
 
 ![example](https://github.com/chiptu/darkGhostwind/blob/master/ex.png?raw=true)
 
