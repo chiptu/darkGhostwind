@@ -1,8 +1,8 @@
 # darkGhostwind 
 
-This repo is a darktheme version of ghostwind css.
+This repo is a darktheme version of [ghostwindcss](https://github.com/tailwindtoolbox/Ghostwind)
 
-I deleted javascript from ghostwind and add some social icons, tag badges on post and others stuff.
+I deleted javascript from ghostwind and add some social icons, tag badges on post and others stuff
 
 ![example](https://github.com/chiptu/darkGhostwind/blob/master/ex.png?raw=true)
 
