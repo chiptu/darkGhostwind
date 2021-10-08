@@ -1,6 +1,6 @@
 # darkGhostwind 
 
-This repo is a darktheme version of [ghostwindcss](https://github.com/tailwindtoolbox/Ghostwind) with some details changing
+This repo is a darktheme version of [ghostwindcss](https://github.com/tailwindtoolbox/Ghostwind) with some changes
 
 You may want to clean ressources which contains examples images.
 
